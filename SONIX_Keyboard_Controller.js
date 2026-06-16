@@ -235,7 +235,7 @@ export class deviceLibrary {
 
 		this.LEDLibrary	=	{
 			"Womier SK80": {
-				name: "Valkyrie VK99",
+				name: "Womier SK80",
 				image: "https://assets.signalrgb.com/devices/brands/valkyrie/keyboards/vk99.png",
 				layout:	"SK80",
 				endpoint: [{ "interface": 2, "usage": 0x0001, "usage_page": 0xFF13, "collection": 0x0000 }]
