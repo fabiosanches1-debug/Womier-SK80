@@ -6,7 +6,7 @@ export function Publisher() { return "WhirlwindFx"; }
 export function Documentation(){ return "troubleshooting/sonix"; }
 export function Size() { return [1, 1]; }
 export function DeviceType(){return "keyboard";}
-export function Validate(endpoint) { return endpoint.interface === 3; }
+export function Validate(endpoint) { return endpoint.interface === 2; }
 export function ImageUrl() { return "https://assets.signalrgb.com/devices/default/misc/usb-drive-render.png"; }
 /* global
 shutdownColor:readonly
